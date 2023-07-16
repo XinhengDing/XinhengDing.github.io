@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<center>**Xinheng Ding（丁欣恒）**</center>
+**<center>Xinheng Ding（丁欣恒）</center>**
 <center>Undergraduate student, Dept. of Automation, USTC</center>
 
 Education
