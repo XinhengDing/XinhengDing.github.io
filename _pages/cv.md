@@ -10,9 +10,13 @@ redirect_from:
 {% include base_path %}
 <div style="text-align: center;">
   <strong>Xinheng Ding（丁欣恒）</strong>
+
+  
   Undergraduate student, Dept. of Automation, USTC
 </div>
 **<center>Xinheng Ding（丁欣恒）</center>**
+
+
 <center>Undergraduate student, Dept. of Automation, USTC</center>
 
 Education
