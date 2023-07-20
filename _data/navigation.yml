@@ -2,9 +2,15 @@
 main:
   - title: "About"
     url: /about/
-
-  - title: "Publications"
-    url: /publications/
+    
+  - title: "Projects"
+    url: /portfolio/
+    
+  - title: "CV"
+    url: /cv/
+    
+  # - title: "Publications"
+  #   url: /publications/
 
   # - title: "Talks"
   #   url: /talks/
@@ -12,12 +18,8 @@ main:
   # - title: "Teaching"
   #   url: /teaching/
     
-  - title: "Projects"
-    url: /portfolio/
-
   # - title: "Portfolio"
   #   url: /portfolio/
     
-  - title: "CV"
-    url: /cv/
+
     
