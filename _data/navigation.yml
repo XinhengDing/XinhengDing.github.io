@@ -11,12 +11,6 @@ main:
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Portfllio"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
     
   - title: "Projects"
     url: /projects/
