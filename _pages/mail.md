@@ -5,4 +5,4 @@ permalink: /mail/
 author_profile: true
 ---
 
-dxh3382@mail.ustc.edu.cn / xhding6@gmail.com
+Email: dxh3382@mail.ustc.edu.cn / xhding6@gmail.com
