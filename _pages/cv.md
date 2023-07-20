@@ -36,7 +36,7 @@ Skills
 
 Awards and Honors
 ======
-* **National Scholarship**(Motivation-based， top 5% of USTC) 2021, 2022.
+* **National Scholarship**(Merit-based，top 5% of USTC) 2021, 2022.
 * **Cyrus Tang Scholarship** 2021, 2022
 * **Silver Prize for Outstanding Student Scholarship**(top 10% of USTC) 2020, 2021.
 * **Lanfeng Scholarship**(top 10% of USTC) 2022.
