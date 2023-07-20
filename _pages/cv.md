@@ -42,24 +42,14 @@ Awards and Honors
 * **Lanfeng Scholarship**(top 10% of USTC) 2022.
 * **Freshmen's Representative of 2020** of USTC. 2020.
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+Projects
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Served as Class Monitor, demonstrating leadership skills in guiding and organizing class activities, fostering a positive learning environment, and representing the class's interests.
+* Actively engaged in the "Tang Zhongying Love Society," contributing to various community service initiatives and demonstrating a commitment to serving others.
