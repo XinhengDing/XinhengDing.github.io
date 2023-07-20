@@ -52,4 +52,4 @@ Projects
 Service and leadership
 ======
 * Served as Class Monitor, demonstrating leadership skills in guiding and organizing class activities, fostering a positive learning environment, and representing the class's interests.
-* Actively engaged in the "Tang Zhongying Love Society," contributing to various community service initiatives and demonstrating a commitment to serving others.
+* Actively engaged in the "Cyrus Tang Caring Club", contributing to various community service initiatives and demonstrating a commitment to serving others.
