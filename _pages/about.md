@@ -14,4 +14,4 @@ redirect_from:
 * Click [Here](../assets/CV.pdf) to view my up-to-state CV. If you are interested in knowing more about me, please feel free to [contact me](https://xinhengding.github.io/mail/).
 
 
-[Email](mailto:dxh3382@mail.ustc.edu.cn) / [Github](https://github.com/XinhengDing) / [Wechat](../images/wechat.jpg) 
+<!--[Email](mailto:dxh3382@mail.ustc.edu.cn) / [Github](https://github.com/XinhengDing) / [Wechat](../images/wechat.jpg) -->
