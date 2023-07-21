@@ -4,7 +4,7 @@ collection: projects
 type: "Computer vision"
 permalink: /projects/AI-Based-Preprocessing-Technologies-for-JPEG-Image-Coding
 venue: "Funded by Anhui Students' Platform for innovation and entrepreneurship training program"
-date: 2022-05-25
+date: 2022-05-25(参与者)
 location: "USTC Hefei, China"
 ---
 
