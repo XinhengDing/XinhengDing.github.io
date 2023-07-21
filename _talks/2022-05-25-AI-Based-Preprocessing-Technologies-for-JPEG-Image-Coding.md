@@ -10,7 +10,8 @@ location: "USTC Hefei, China"
 
 # Motivation
 
-The image coding technology represented by JPEG has been extensively applied across various industries. JPEG image coding is a lossy compression technique, and when the coding rate is low , the reproduced image may exhibit noticeable artifacts. To address this issue, there are two main approaches: post-processing after decoding, which requires high demands on image viewers, and pre-processing before encoding, which preserves image viewers without alteration. This project aims to explore the use of artificial intelligence (AI) technologies, particularly deep learning, for pre-processing images prior to JPEG encoding. By doing so, the goal is to mitigate artifacts while maintaining compatibility with existing image viewers.
+The image coding technology represented by JPEG has been extensively applied across various industries. JPEG image coding is a lossy compression technique, and when the coding rate is low , the reproduced image may exhibit noticeable artifacts. 
+To address this issue, there are two main approaches: post-processing after decoding, which requires high demands on image viewers, and pre-processing before encoding, which preserves image viewers without alteration. This project aims to explore the use of artificial intelligence (AI) technologies, particularly deep learning, for pre-processing images prior to JPEG encoding. By doing so, the goal is to mitigate artifacts while maintaining compatibility with existing image viewers.
 
 # Obstacle
 
