@@ -33,5 +33,6 @@ The project is divided into three parts: PDF_Parser, API, and Application.
 * API handles the process of making calls to URLs and crawling the target resources.
 
 * Application is responsible for managing the overall control logic of the project.
+<img src="../images/Snipaste_2023-07-28_23-23-08.png" alt="USTC Campus">
 
 You can find the source code on [GitHub](https://github.com/XinhengDing/DLP_HW1)
