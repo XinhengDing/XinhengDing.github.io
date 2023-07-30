@@ -8,7 +8,7 @@ date: 2023-7-20
 location: "UT Austin"
 ---
 
-1. **Problem**:
+1. **Problem:**
 
    Considering a federated learning setting (or CoID Fusion setting), we cannot directly train multiple heterogeneous data domains.
 
@@ -20,7 +20,7 @@ location: "UT Austin"
 
    b. For task A, by adding task C that is dissimilar to task A, the performance of task A will be unchanged or slightly increase.
 
-3. **Assumption(Probably too strong, not sure):**We can decompose model weights based on their specialties, too. 
+3. **Assumption(Probably too strong, not sure):** We can decompose model weights based on their specialties, too. 
 
    Consider three tasks, task A&B can help each other, but C cannot help A&B nor be helped, we hope to find a way to decompose weights so that:
 
@@ -30,9 +30,9 @@ location: "UT Austin"
 
    c. $$M_{A}=W_{A, B, C}^{0}+W_{A, B}^{1}+W_{A}^2$$. So task C can update and help the first item, while task B can update and help the first and second item. (I will refer to each item as "Node", since it can be view as a Node on a Tree structure.)
 
-4. **Question: **how to decompose the weights
+4. **Question:** how to decompose the weights
 
-5. **Method (temp): **By Pareto
+5. **Method(temp):** By Pareto
 
    Initialize: $$W_{A, B, C}^{0}=Pretrain-Model, Other-Nodes=0$$
 
