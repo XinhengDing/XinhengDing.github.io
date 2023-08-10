@@ -1,5 +1,5 @@
 ---
-title: "FaceGuard：Video-based Face Tampering Detection"
+title: "Video-based Face Tampering Detection"
 collection: projects
 type: "Computer vision"
 permalink: /projects/FaceGuard-Video-based-Face-Tampering-Detection
