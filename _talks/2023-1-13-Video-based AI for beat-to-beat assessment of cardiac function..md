@@ -34,5 +34,5 @@ The dataset includes 10,030 echocardiogram images. Preprocessing of these images
 
 
 Below is an example that segments the left ventricle and tracks the real-time changes in left ventricular volume.
-<img src="../images/微信图片_20230810102626.png alt="Example">
+<img src="../images/微信图片_20230810102626.png" alt="Example">
 
