@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-***Searching for Ph.D. positions for the Fall 2024 intake***
+***Searching for a Ph.D. position for the Fall 2024 intake***
 
 
 <img src="../images/USTC.jpg" alt="USTC Campus">
