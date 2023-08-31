@@ -16,7 +16,7 @@ Education
 * *2020-Present* B.E. in Automation, University of Science and Technology of China
 
 
-Work experience
+Research experience
 ======
 * *2023.7-Present* **The University of Texas at Austin**
   * Undergraduate research assistant, advised by Prof. Atlas Wang.
@@ -30,7 +30,7 @@ Work experience
   
 Skills
 ======
-* **Deep Learning Framworks:** Pytorch
+* **Deep Learning Framworks:** Pytorch, transformers
 * **Programming Languages:** C/C++, Python, MATLAB, VHDL, CUDA, OpenMP
 * **Applications:** Origin, 3D Slicer, ITK-SNAP, EasyEDA, Photoshop
 
