@@ -1,14 +1,16 @@
 # main links links
 main:
-  - title: "About"
-    url: /about/
+  - title: "Home"
+    url: /home/
     
   - title: "Projects"
     url: /projects/
     
-  - title: "CV"
-    url: /cv/
-    
+  - title: "Resume"
+    url: /resume/
+
+  - title: "Gallery"
+    url: /gallery/
   # - title: "Publications"
   #   url: /publications/
 
