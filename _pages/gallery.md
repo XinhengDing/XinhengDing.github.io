@@ -72,20 +72,20 @@ author_profile: true
     <div class="gallery-item">
         <img src="../images/尹志尧.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
         <p class="time">June 9, 2021</p>
-        <p class="event">Attended a Lecture by Chairman Zhao Yao of SMIC (Semiconductor Manufacturing International Corporation.</p>
+        <p class="event">Attended a Lecture by Dr. Zhiyao Yin, Chairman&Founder of SMIC (Semiconductor Manufacturing International Corporation.</p>
     </div>
     
     <div class="gallery-item">
-    <div style="display: flex; align-items: center;">
-        <video controls width="300" >
-            <source src="电设小车.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-        <video controls width="300" >
-            <source src="呼吸灯.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-        </video>
-    </div>
+        <div style="display: flex; align-items: center;">
+            <video controls width="300" >
+                <source src="电设小车.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+            <video controls width="300" >
+                <source src="呼吸灯.mp4" type="video/mp4">
+                Your browser does not support the video tag.
+            </video>
+        </div>
     <p class="time">June 10, 2021</p>
     <p class="event">Projects in Electronic Design Practice: Remote-Controlled Car and Breathing Light</p>
     </div>
