@@ -29,13 +29,13 @@ author_profile: true
         }
 
         .time {
-            font-size: 8px;
+            font-size: 6px;
             font-weight: bold;
         }
         
         .event {
             font-style: italic;
-            font-size: 8px;
+            font-size: 6px;
         }
     </style>
 </head>
