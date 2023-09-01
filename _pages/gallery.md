@@ -50,7 +50,7 @@ author_profile: true
     <div class="gallery-item">
         <div style="display: flex; align-items: center;">
             <img src="../images/东门门口.jpg" alt="Image 1" style="width: 50%; max-width: 200px; margin-right: 10px;">
-        <img src="../images/东门门口.jpg" alt="Image 2" style="width: 50%; max-width: 200px; margin-left: 10px;">
+            <img src="../images/东门门口.jpg" alt="Image 2" style="width: 50%; max-width: 200px; margin-left: 10px;">
         </div>    
         <p class="time">2023年5月15日</p>
         <p class="event">毕业典礼</p>
