@@ -91,9 +91,9 @@ author_profile: true
     </div>
 
     <div class="gallery-item">
-        <img src="../images/科普演讲比赛.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
-        <p class="time">November 25, 2020</p>
-        <p class="event">Anhui Province's First Science Popularization Speech Competition.</p>
+        <img src="../images/安徽省博物馆.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+        <p class="time">April 17, 2021</p>
+        <p class="event">Organized a class visit to the Anhui Provincial Museum.</p>
     </div>
 
     <div class="gallery-item">
