@@ -4,6 +4,8 @@ author_profile: true
 
 ---
 
+
+
 <html>
 <head>
     <title>My Gallery</title>
@@ -34,6 +36,12 @@ author_profile: true
         .event {
             font-style: italic;
         }
+
+        /* CSS样式，将标注文本的字号设置为12像素 */
+        .time, .event {
+            font-size: 8px;
+        }
+</style>
     </style>
 </head>
 <body>
@@ -68,21 +76,11 @@ author_profile: true
         <p class="time">January 1, 2022</p>
         <p class="event">In the college physics laboratory class</p>
     </div>
-
-    <div class="gallery-item">
-        <img src="../images/尹志尧.jpg" alt="Photo 1" class="photo" style="width: 45%; max-width: 500px; height: auto; max-height: 500px;">
-        <p class="time">June 9, 2021</p>
-        <p class="event">Attended a Lecture by Dr. Zhiyao Yin, Chairman&Founder of SMIC (Semiconductor Manufacturing International Corporation.</p>
-    </div>
     
     <div class="gallery-item">
         <div style="display: flex; align-items: center;">
             <video controls width="300" >
                 <source src="../images/电设小车.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-            <video controls width="300" >
-                <source src="../images/呼吸灯.mp4" type="video/mp4">
                 Your browser does not support the video tag.
             </video>
         </div>
