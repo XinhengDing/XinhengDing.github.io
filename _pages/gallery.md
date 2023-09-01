@@ -41,14 +41,17 @@ author_profile: true
     
     <!-- 第一张照片 -->
     <div class="gallery-item">
-        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo">
+        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
         <p class="time">September 3, 2020</p>
         <p class="event">To commemorate my first visit to the university, at the entrance of USTC</p>
     </div>
 
     <!-- 第二张照片 -->
     <div class="gallery-item">
-        <img src="photo2.jpg" alt="Photo 2" class="photo">
+        <div style="display: flex; align-items: center;">
+            <img src="../images/东门门口.jpg" alt="Image 1" style="width: 50%; max-width: 200px; margin-right: 10px;">
+        <img src="../images/东门门口.jpg" alt="Image 2" style="width: 50%; max-width: 200px; margin-left: 10px;">
+        </div>    
         <p class="time">2023年5月15日</p>
         <p class="event">毕业典礼</p>
     </div>
