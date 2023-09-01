@@ -55,8 +55,10 @@ author_profile: true
 
     <!-- 第二张照片 -->
     <div class="gallery-item">
-        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
-        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+        <div style="display: flex; align-items: center;">
+            <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+            <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+        </div>
         <p class="time">2023年5月15日</p>
         <p class="event">毕业典礼</p>
     </div>
