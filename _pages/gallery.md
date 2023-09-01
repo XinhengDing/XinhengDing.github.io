@@ -38,6 +38,13 @@ author_profile: true
 </head>
 <body>
     <h1>Welcome to My Gallery</h1>
+
+    <!-- 第一张照片 -->
+    <div class="gallery-item">
+        <img src="../images/开学典礼.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+        <p class="time">September 20, 2020</p>
+        <p class="event">Delivering a speech as a representative of the freshman class at the opening ceremony.</p>
+    </div>
     
     <!-- 第一张照片 -->
     <div class="gallery-item">
@@ -48,10 +55,8 @@ author_profile: true
 
     <!-- 第二张照片 -->
     <div class="gallery-item">
-        <div style="display: flex; align-items: center;">
-            <img src="../images/东门门口.jpg" alt="Image 1" style="width: 50%; max-width: 200px; margin-right: 10px;">
-            <img src="../images/东门门口.jpg" alt="Image 2" style="width: 50%; max-width: 200px; margin-left: 10px;">
-        </div>    
+        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
+        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo" style="width: 30%; max-width: 300px; height: auto; max-height: 500px;">
         <p class="time">2023年5月15日</p>
         <p class="event">毕业典礼</p>
     </div>
