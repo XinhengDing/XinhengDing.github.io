@@ -1,13 +1,10 @@
 ---
-permalink: /gallery
-title: ""
-excerpt: ""
+permalink: /gallery/
 author_profile: true
-redirect_from: 
-  - /gallery/
+redirect_from:
+  - /gallery
 ---
 
-<!DOCTYPE html>
 <html>
 <head>
     <title>My Gallery</title>
