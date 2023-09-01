@@ -10,13 +10,12 @@ redirect_from:
 
 <p style="color: red; font-weight: bold; font-style: italic;">Searching for a Ph.D. position for the Fall 2024 intake</p>
 
-***Searching for a Ph.D. position for the Fall 2024 intake***
 
 <div style="display: flex; align-items: center;">
     <div style="text-align: left;">
         <p>Your text goes here.</p>
     </div>
-    <img src="../images/03.png" alt="Image" style="float: right; margin-left: 20px;">
+    <img src="../images/03.png" alt="Image" style="float: right; margin-left: 20px;, width="300"">
 </div>
 
 
