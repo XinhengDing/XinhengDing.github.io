@@ -32,7 +32,7 @@ author_profile: true
             font-size: 8px;
             font-weight: bold;
         }
-
+        
         .event {
             font-style: italic;
             font-size: 8px;
