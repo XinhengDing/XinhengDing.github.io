@@ -11,27 +11,7 @@ redirect_from:
 <p style="color: red; font-weight: bold; font-style: italic;">Searching for a Ph.D. position for the Fall 2024 intake</p>
 
 
-<div style="display: flex; align-items: center;">
-    <div style="text-align: left;">
-        <ul>
-            <li>I'm a third-year undergraduate student from
-                <a href="https://sist.ustc.edu.cn/">School of Information Science and Technology</a>,
-                <a href="https://www.ustc.edu.cn/">University of Science and Technology of China (USTC)</a>.
-                I am very fortunate to be advised by
-                <a href="https://faculty.ustc.edu.cn/dongeliu/en/index.htm">Prof. Dong Liu</a>
-                of
-                <a href="https://ustc-ivclab.github.io/">Intelligent Visual Data Coding Lab</a>
-                from
-                <a href="https://sist.ustc.edu.cn/">School of Information Science and Technology, USTC</a>.</li>
-            <li>My research interests lie in deep learning, machine learning, and their intersection.</li>
-            <li>Click <a href="../assets/CV.pdf" target="_self">Here</a> to view my up-to-date CV. If you are interested in knowing more about me, please feel free to <a href="https://xinhengding.github.io/mail/" target="_self">contact me</a>.</li>
-        </ul>
-    </div>
-    <img src="../images/东门门口.jpg" alt="Image" style="float: right; width: 50%; max-width: 600px; height: auto; max-height: 1000px; margin-left: 20px;">
-</div>
-
-
-<img src="../images/USTC.jpg" alt="USTC Campus">
+<img src="../images/开学典礼.jpg" alt="USTC Campus">
 * I'm a third-year undergraduate student from [School of Information Science and Technology](https://sist.ustc.edu.cn/), University of Science and Technology of China[(USTC)](https://www.ustc.edu.cn/). I am very fortunate to be advised by [Prof. Dong Liu](https://faculty.ustc.edu.cn/dongeliu/en/index.htm) of [Intelligent Visual Data Coding Lab](https://ustc-ivclab.github.io/) from School of Information Science and Technology, USTC.
 * My research interests lie in deep learning, machine learning, and their intersection.
 * Click [Here](../assets/CV.pdf) to view my up-to-date CV. If you are interested in knowing more about me, please feel free to [contact me](https://xinhengding.github.io/mail/).
