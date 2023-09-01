@@ -29,19 +29,14 @@ author_profile: true
         }
 
         .time {
-            font-size: 1.2em;
+            font-size: 8px;
             font-weight: bold;
         }
 
         .event {
             font-style: italic;
-        }
-
-        /* CSS样式，将标注文本的字号设置为12像素 */
-        .time, .event {
             font-size: 8px;
         }
-</style>
     </style>
 </head>
 <body>
@@ -76,18 +71,14 @@ author_profile: true
         <p class="time">January 1, 2022</p>
         <p class="event">In the college physics laboratory class</p>
     </div>
-    
-    <div class="gallery-item">
-        <div style="display: flex; align-items: center;">
-            <video controls width="300" >
-                <source src="../images/电设小车.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
-        </div>
-    <p class="time">June 10, 2021</p>
-    <p class="event">Projects in Electronic Design Practice: Remote-Controlled Car and Breathing Light</p>
-    </div>
 
+
+    <div class="gallery-item">
+        <img src="../images/电设小车.jpg" alt="Photo 1" class="photo" style="width: 45%; max-width: 500px; height: auto; max-height: 500px;">
+        <p class="time">June 10, 2021</p>
+        <p class="event">Projects in Electronic Design Practice: A Remote-Controlled Car</p>
+    </div>
+    
     <div class="gallery-item">
         <img src="../images/安徽省博物馆.jpg" alt="Photo 1" class="photo" style="width: 45%; max-width: 500px; height: auto; max-height: 500px;">
         <p class="time">April 17, 2021</p>
