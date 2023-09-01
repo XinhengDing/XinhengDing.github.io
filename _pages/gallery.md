@@ -41,9 +41,9 @@ author_profile: true
     
     <!-- 第一张照片 -->
     <div class="gallery-item">
-        <img src="photo1.jpg" alt="Photo 1" class="photo">
-        <p class="time">2023年1月1日</p>
-        <p class="event">我的生日派对</p>
+        <img src="../images/东门门口.jpg" alt="Photo 1" class="photo">
+        <p class="time">September 3, 2020</p>
+        <p class="event">To commemorate my first visit to the university, at the entrance of USTC</p>
     </div>
 
     <!-- 第二张照片 -->
