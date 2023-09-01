@@ -15,7 +15,7 @@ redirect_from:
     <div style="text-align: left;">
         <p>Your text goes here.</p>
     </div>
-    <img src="../images/03.png" alt="Image" style="float: right; margin-left: 20px;, width="300"">
+    <img src="../images/03.png" alt="Image" style="float: right; width: 200px; margin-left: 20px;">
 </div>
 
 
